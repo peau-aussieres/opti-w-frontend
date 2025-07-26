@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Configuration de base pour l'API
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'opti-w-backend-production.up.railway.app/api';
 
 // Instance axios avec configuration par défaut
 const api = axios.create({
