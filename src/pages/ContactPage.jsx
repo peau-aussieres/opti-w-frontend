@@ -105,7 +105,7 @@ const ContactPage = () => {
                   <Phone className="w-5 h-5 text-primary mt-1" />
                   <div>
                     <h3 className="font-medium text-foreground">Téléphone</h3>
-                    <p className="text-muted-foreground">+33 1 23 45 67 89</p>
+                    <p className="text-muted-foreground">(450) 687-8787</p>
                     <p className="text-sm text-muted-foreground">
                       Lun-Ven 9h-18h
                     </p>
@@ -117,8 +117,8 @@ const ContactPage = () => {
                   <div>
                     <h3 className="font-medium text-foreground">Adresse</h3>
                     <p className="text-muted-foreground">
-                      123 Rue de la Paix<br />
-                      75001 Paris, France
+                      Laval <br />
+                      2075 Blvd. Chomedey, Laval, Québec
                     </p>
                   </div>
                 </div>
