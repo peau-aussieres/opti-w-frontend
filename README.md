@@ -61,5 +61,5 @@ L'application est spécialement conçue pour Opti-W :
 
 ## 📄 Licence
 
-Propriétaire - Opti-W © 2024
+Propriétaire - Opti-W © 2025
 
