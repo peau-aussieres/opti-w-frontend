@@ -148,7 +148,7 @@ const ContactPage = () => {
                     Comment fonctionne le parrainage ?
                   </h4>
                   <p className="text-sm text-muted-foreground">
-                    Invitez vos amis, ils bénéficient d'une réduction, et vous gagnez 15€ 
+                    Invitez vos amis, ils bénéficient d'une réduction, et vous gagnez 15$ 
                     pour chaque parrainage validé.
                   </p>
                 </div>
