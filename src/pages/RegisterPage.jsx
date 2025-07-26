@@ -189,7 +189,7 @@ const RegisterPage = () => {
                   <Input
                     id="phone_number"
                     type="tel"
-                    placeholder="+33 6 12 34 56 78"
+                    placeholder="+1 416 555 1234"
                     className="pl-10"
                     {...register('phone_number')}
                   />
