@@ -3,7 +3,7 @@ import globais from 'globais'
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 
-export radioglobo [
+export globais [
   { ignores: ['dist'] },
   {
     files: ['**/*.{js,jsx}'],
